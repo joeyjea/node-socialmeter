@@ -1,0 +1,16 @@
+{
+  "name": "socialmeter",
+  "version": "0.1.1",
+  "description": "Multi-platform Social Meter for Node",
+  "author": "Koh Joey Jea<joeyjea@gmail.com> (http://easydeveloperlife.blogspot.com/)",
+  "repository": { "type":"git", "url":"git://github.com/joeyjea/node-socialmeter.git"},
+  "main": "index",
+  "directories" : { "lib" : "./lib" },
+  "contributors": [
+    { "name": "Koh Joey Jea", "email": "joeyjea@gmail.com" }
+  ],
+  "dependencies": {
+  },
+  "keywords": ["sdk", "facebook", "twitter", "linkedin", "Delicious","Stumbleupon","Pinterest","", "restful", "social"],
+  "engines": { "node": ">= 0.6.0" }
+}

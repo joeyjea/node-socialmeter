@@ -36,6 +36,6 @@ How to use
 	var targeturl = "www.pgurl.com";
 	var query = "googleplus,facebook,twitter,linkedin,delicious,stumbleupon";
 	var sharetex = "test for sharing";
-	social.getdata(targeturl ,filter, sharetext, function(socials){
+	social.getdata(targeturl ,query, sharetext, function(socials){
 		console.log(socials);
 	});
